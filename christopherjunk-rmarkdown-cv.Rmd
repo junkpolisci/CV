@@ -1,0 +1,86 @@
+---
+output: 
+  pdf_document:
+    latex_engine: pdflatex
+    template: C:\Users\Christopher\Documents\Computational-methods\cv\christopherjunk-latex-cv.tex
+geometry: margin=1in
+
+title: "CV"
+author: Christopher Junk
+
+jobtitle: "Political Science PhD Student"
+address: "341 Schaeffer Hall · Iowa City · IA 52242"
+fontawesome: yes
+email: christopher-hollis@uiowa.edu
+github: junkpolisci
+twitter: Junk_polisci
+#phone: "309 313 3071"
+#web: 
+updated: yes
+
+keywords: R Markdown, academic CV, template
+
+fontfamily: mathpazo
+fontfamilyoptions: sc, osf
+fontsize: 10pt
+linkcolor: blue
+urlcolor: blue
+---
+
+# Education
+
+*University of Iowa*, PhD expected, Political Science \hfill 2021
+
+*St. Ambrose University*, BA, International Studies and Spanish \hfill 2016
+
+# Research and Teaching Experience
+
+Research Assistant \hfill Spring 2019
+
+>"Informal Economies, Societal Stability and Regime Resilience in China and Russia" with William Reisinger, Marina Zaloznaya, Wenfang Tang
+
+Managing Editor & Replication Analyst, Foreign Policy Analysis \hfill Fall 2018 -
+
+Collaboratory Manager \hfill Fall 2018
+
+>Responsibilities include managing and updating computers within the department's computer lab, assisting graduate students and undergraduates in statistically related coursework. 
+
+Teaching Assistant \hfill Fall 2016 - Fall 2018
+
+1. Foreign Policy Analysis - Fall 2016, Spring 2017, Summer 2017, Spring 2018
+1. International Relations - Fall 2017
+1. Russian and Eurasian Politics - Spring 2017
+
+# Working Papers
+
+Responding in Kind? When Democracies Repress as a Response to Civil Unrest
+
+>In this paper I show that democratic leaders are increasingly likely to use repression, especially in forms of censorship and violent repression, as the threat to public security increases. Democratic leaders need legitimacy in the form of a serious threat to public security before they can repress. Given the opportunity, democratic leaders will repress in order to increase security. This adds to the literature of findings that as the public perceives greater threats they are more willing to exchange civil liberties for security. 
+
+# Conferences
+
+*Presenter*
+Midwest Political Science Association (2019)
+
+*Attendee*
+International Studies Association (2019)
+
+# Grants and Awards 
+
+*University of Iowa* 
+
+>Conference Travel Grant ($500), Department of Political Science (2018)
+
+# Additional Education 
+
+*University of Iowa*
+
+ISRC Workshops 
+
+1. Introduction to Visualization in R \hfill 2018
+1. Introduction to STATA \hfill 2016
+
+
+# References
+
+Available upon request.
